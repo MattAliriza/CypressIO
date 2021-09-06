@@ -1,4 +1,4 @@
-### Cyprios.IO example
+# Cyprios.IO example
 
 ## Executing cypress.io
 1. Open cmd/bash/terminal
