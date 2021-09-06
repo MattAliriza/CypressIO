@@ -5,6 +5,8 @@
 2. Navigate to the project directory
 3. type `npx cypress open` in the root directory of the project
 
+<br>
+
 ## Activating IntelliSense:
 Add `/// <reference types="Cypress" />` to the top of the '*.js' file
 
